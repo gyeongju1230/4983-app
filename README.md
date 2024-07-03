@@ -16,10 +16,8 @@
 ### 기술 스택
 
 - ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
-  ![Short Polling](https://img.shields.io/badge/Short%20Polling-FFEB99?style=flat&logo=&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white)
   ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white)
-  ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=Swiper&logoColor=white)
   ![Styled-component](https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
 
 ### 구현한 기능
@@ -47,11 +45,16 @@
 - [🔗 App Store 로 이동하기](https://apps.apple.com/kr/app/%EC%82%AC%EA%B3%A0%ED%8C%8C%EC%82%BC/id6477531087)
 - [🔗Google Play 로 이동하기]() (🚧 베타 테스트 중입니다.)
 
+### 결과 및 성과 📝
+- 사고파삼 사용자 App 출시 후 대략 **300명 이상의 신규 가입자 수** 달성하였고, **현재까지 꾸준히 운영 중에 있습니다.**
+- 사기 거래 걱정을 해소한 중개 구조 덕분에 **거래 완료율이 95% 이상으로 높아졌으며**, 사용자의 신뢰도를 크게 향상시켰습니다.
+- 비대면 거래 시스템 도입으로 인해, **사용자의 편의성을 극대화**하고 캠퍼스 내에서의 **안전한 거래 문화**를 조성하였습니다.
+
 ### 프로젝트 후기 🙇🏻‍♀️
 
 - 문제 해결 능력 강화
   - 프로젝트 진행 중 다양한 문제와 버그를 직면하고 이를 해결하는 과정에서 문제 해결 능력이 향상되었습니다.
-  - 특히 처음 적용해보는 `Short Polling` 을 도입하는 과정에서 여러 시행착오를 겪었지만, 이를 해결하고 최종적으로 완성하는 과정에서 많은 교훈을 얻었습니다.
+  - 특히 처음 적용해보는 `Polling` 을 도입하는 과정에서 여러 시행착오를 겪었지만, 이를 해결하고 최종적으로 완성하는 과정에서 많은 교훈을 얻었습니다.
 - 충분한 테스트의 중요성
   - QA 테스트 진행전, 내부 테스트를 충분히 진행했음에도 불구하고 QA 테스트에서 많은 버그가 발견되었습니다.
   - 이 경험을 통해 반복된 테스트와 외부적인 QA 과정의 중요성을 명확히 이해하게 되었습니다.
